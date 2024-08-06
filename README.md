@@ -27,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
