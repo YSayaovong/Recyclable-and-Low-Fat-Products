@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
