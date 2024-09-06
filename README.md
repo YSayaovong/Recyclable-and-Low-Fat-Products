@@ -15,4 +15,12 @@ This project explores SQL queries for filtering recyclable and low-fat products 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/2383-add-two-integers) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
