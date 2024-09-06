@@ -8,3 +8,11 @@ This project explores SQL queries for filtering recyclable and low-fat products 
 - Practice with real-world-like database scenarios.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/YSayaovong/Recyclable-and-Low-Fat-Products/tree/master/2383-add-two-integers) |
+<!---LeetCode Topics End-->
